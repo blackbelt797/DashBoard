@@ -1,0 +1,22 @@
+{
+  "name": "dashboardpj",
+  "version": "1.0.0",
+  "description": "Business Dash App",
+  "main": "dash_board.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackbelt797/DashBoard.git"
+  },
+  "keywords": [
+    "blackbelt797"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackbelt797/DashBoard/issues"
+  },
+  "homepage": "https://github.com/blackbelt797/DashBoard#readme"
+}
